@@ -1,0 +1,28 @@
+:root {
+  --cinza-1: #333333;
+  --cinza-2: #4f4f4f;
+  --cinza-3: #cacaca;
+  --cinza-4: #bdbdbd;
+  --cinza-5: #828282;
+  --laranja: #f2994a;
+  --off-white: #fafafa;
+  --branco: #ffffff;
+  --preto: #000000;
+
+  --montserrat: "Montserrat", sans-serif;
+  --playfair: "Playfair Display", serif;
+}
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+
+body {
+}
+
+.container {
+}
+
+@media screen and (min-width: 1024px) {
+}
